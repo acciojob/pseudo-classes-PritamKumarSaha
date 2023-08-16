@@ -22,5 +22,9 @@ li:nth-child(odd){
 	font-size:22px;
 }
 li:nth-child(3){
+	background:none;
 	background:pink;
+	font-size:normal;
+	font-size:15px;
+
 }
